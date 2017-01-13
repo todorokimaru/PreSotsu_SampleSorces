@@ -6,7 +6,6 @@
   
   Q.どれがどのファイル？
   
-  
   A.「binarization」：二値化
   
   「contrast」    ：コントラスト補正

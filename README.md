@@ -7,15 +7,15 @@
   
   A.「binarization」：二値化
   
-    「contrast」    ：コントラスト補正
+  「contrast」    ：コントラスト補正
     
-    「copyimage」   ：複製
+  「copyimage」   ：複製
     
-    「edge」        ：エッジ処理
+  「edge」        ：エッジ処理
     
-    「gamma」       ：ガンマ補正
+  「gamma」       ：ガンマ補正
     
-    「grayscale」   ：グレースケール変換
+  「grayscale」   ：グレースケール変換
     
  
   Q.どのように導入するの？

@@ -7,7 +7,7 @@ Q.どれがどのファイル？
 A.「binarization」  ：二値化  
   「contrast」      ：コントラスト補正  
   「copyimage」     ：複製  
-  「edge」          ：エッジ処理
+  「edge」          ：エッジ処理  
   「fliphorizontal」：左右反転  
   「gamma」         ：ガンマ補正  
   「grayscale」     ：グレースケール変換  

@@ -9,7 +9,7 @@ A.「binarization」  ：二値化
   「copyimage」     ：複製  
   「edge」          ：エッジ処理  
   「fliphorizontal」：左右反転  
-  「gamma」         ：ガンマ補正  
+  「gamma」         ：ガンマ補正  
   「grayscale」     ：グレースケール変換  
   「rot90」         ：90度回転  
   
